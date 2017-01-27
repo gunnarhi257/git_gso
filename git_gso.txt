@@ -13,4 +13,6 @@ Færsla
 	Færsla er þegar þú færir einn hlut frá einum stað til annann. Tölvupóstur er dæmi um færslu. Því maður sendir það frá einu gagnasafnkerfi til annann.
 Skrá
 	Gagnaskrá er tölvuskrá sem geymir gögn til að nota með einhverju tölvuforrit eða kerfi. Gagnaskrá má geyma á tveimum hætti. Fyrst er hægt að geyma það í textaskrár og svo annað tvívundarskrá/tvöfaldurskrár.
+Skráarsnið
+	Í tölvum, skráarsnið segir hvernig gögn eru inn í skráarinnar(hún segir hvernig skrár, skráin er). Word skjal er t.d. með skráarsniðið “.doc”, HTML skjal er með “.html” og CSS skjal er með “.css” o.s.frv.
 

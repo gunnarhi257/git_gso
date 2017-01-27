@@ -11,4 +11,6 @@ Gagnasafnskerfi
 	Gagnasafnskerfi er kerfi sem miðar á að því að ná mjög skipulögðu safni af gögnum til að auðvelda vinnslu og aðgang að þeim gögnum. Algeng leið til að nota gagnasafnskerfi er til að leita af upplýsingum um notanda, nafnið á þeim, innskráningarupplýsingar, heimilisföng og símanúmer.
 Færsla
 	Færsla er þegar þú færir einn hlut frá einum stað til annann. Tölvupóstur er dæmi um færslu. Því maður sendir það frá einu gagnasafnkerfi til annann.
+Skrá
+	Gagnaskrá er tölvuskrá sem geymir gögn til að nota með einhverju tölvuforrit eða kerfi. Gagnaskrá má geyma á tveimum hætti. Fyrst er hægt að geyma það í textaskrár og svo annað tvívundarskrá/tvöfaldurskrár.
 

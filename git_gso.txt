@@ -5,4 +5,6 @@ gögn:
 	Rafræn gögn eru gögn sem eru geymdar í t.d. í hörðum diskum í tölvum, í diskum, tölvu minni o.s.frv en oftast er það í netinu. Dæmi um rafræn gagnavinnslu er að panta eitthvað á rafrænum hætti(panta eitthvað á netinu). 
 	Stafrænt gögn eru 0/1 gögn sem eru geymd inní tölvum og eru breytt í stafræn merki. Dæmi um stafræn gögn er Facebook og Instagram. Í Facebook getur stafræn gögn verið myndir og myndbönd, og það er það sama við Instagram. 
 	Það er til önnur form af gögnum. Til dæmis lýsigögn, lýsigögn eru gögn sem veitir upplýsingar um önnur gögn.
+Gagnasafn:
+	Gagnasafn skipulögð safn af gögnum. Gögnin í gagnasafninu getur verið allskonar. Dæmi um eitt gagnasafn er Veðurstofa Íslands. Veðurstofa Íslands geymir mikið af gögnum um veðrið og jarðskjálftum. Annað dæmi er til dæmis The Central Intelligence Agency(CIA). CIA geymir gögnum um fólk, staði og hluti.
 
